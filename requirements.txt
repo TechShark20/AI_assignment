@@ -1,0 +1,7 @@
+transformers[timms]
+torch
+pandas 
+numpy 
+opencv-python
+huggingface-hub
+safetensors
